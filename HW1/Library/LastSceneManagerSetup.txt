@@ -1,7 +1,0 @@
-sceneSetups:
-- path: Assets/Episode_1.unity
-  isLoaded: 1
-  isActive: 1
-- path: Assets/Episode_2.unity
-  isLoaded: 0
-  isActive: 0
